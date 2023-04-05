@@ -1,2 +1,3 @@
 # selfdiagnosis-webapp
-This is a web-based application that users can use to diagnose themselves at the comfort of the place.
+This is a web application that can be used by hospitals for self diagnosis and appoints, and also for video meeting with patients who are unable to be accessible to the hospital. It uses springboot, Mysql, html, css and bootstrap. I have also incorperate Infermedica API for diagnosis and Africas talking api for sending messages when users registeror have an appointment.
+Patients can register in the application and have a customized dashboard for great experience. Doctors can also register with our application so that they can be available for appointments and consultation. Pharmacy can also register inour app and start using it to manage their business and also find patients who may want medicine from our application.
